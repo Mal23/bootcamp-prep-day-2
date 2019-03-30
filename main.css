@@ -4,6 +4,11 @@ body {
 
 header {
     position: fixed;
+    top: 0;
+}
+
+main {
+    margin-top: 75px;
 }
 
 h1 {
